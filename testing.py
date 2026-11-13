@@ -5,3 +5,4 @@ while True:
     r=r+1
     print(r,"stop",y)
     y=y-1
+    
