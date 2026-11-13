@@ -30,4 +30,4 @@ print("--- видаляємо мертвих ---")
 enemies = [e for e in enemies if e.alive]
 for e in enemies:
     e.show()  # Лише 2 вороги
-    e.print()
+    #e.print()
